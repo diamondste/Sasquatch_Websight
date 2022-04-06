@@ -28,6 +28,7 @@
 
 <h1>View</h1>
 
+![view1](https://user-images.githubusercontent.com/86845092/161875364-f20f42a4-ecdc-4456-87c3-ef7f2898a9ec.PNG)
 
 
 <h1>Report</h1>

@@ -17,6 +17,9 @@
 
 <h1>Login & Register</h1>
 
+![register1](https://user-images.githubusercontent.com/86845092/161874993-c19fef3e-2df1-419b-94ec-3d0835a89718.PNG)
+
+![login1](https://user-images.githubusercontent.com/86845092/161874996-48cfb67f-01fa-48f1-89c5-6e9419680f3a.PNG)
 
 
 <h1>Dashboard</h1>

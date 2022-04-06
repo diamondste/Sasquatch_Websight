@@ -24,7 +24,7 @@
 
 <h1>Dashboard</h1>
 
-
+![dashboard1](https://user-images.githubusercontent.com/86845092/161875035-b8ebf670-bc25-4f0f-9c0b-19c403af9166.PNG)
 
 <h1>View</h1>
 

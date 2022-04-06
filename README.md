@@ -1,6 +1,7 @@
 <h1>Sasquatch Websighting</h1>
 
-<p>Sasquatch Websighting is an application that allow users to report a sighting of Sasquatch</p>
+<p>Sasquatch Websighting is an application that allow users to report a sighting of Sasquatch. It allows the user to edit and delete thier report. 
+They always access to view other sighting</p>
 
 <p><b>The technologies that I use to build this application are: Python, Flask, SQL, Bootstrap</b></p>
 
